@@ -12,15 +12,19 @@ Compreender como as empresas estão utilizando Inteligência Artificial, identif
 
 ## 📈 Páginas do dashboard
 
-**1. Adoção de IA**
+### 📊 Página 1 — Adoção de IA
+![Adoção de IA](01_Adocao_IA.png)
 
 Análise da utilização de Inteligência Artificial por empresas, considerando porte, região e setor de atuação.
 
-**2. Aplicações de IA**
+### 📈 Página 2 — Aplicações de IA
+![Aplicações de IA](02_Aplicacoes_IA.png)
+
 
 Comparação das principais finalidades de utilização da IA, incluindo marketing, vendas e outras atividades empresariais.
 
-**3. Desafios da IA**
+### 🚀 Página 3 — Desafios da IA
+![Desafios da IA](03_Desafios_IA.png)
 
 Análise dos principais obstáculos à utilização de IA, como custos, falta de capacitação e incompatibilidade tecnológica.
 
